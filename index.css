@@ -1,5 +1,5 @@
 body{
-    /* background-color:navy; */
+    background-color:rgb(13, 13, 27);
     margin: 0;
     padding: 0;
 }
@@ -8,15 +8,36 @@ span.insights{
 }
 .sub-main_container{
     display: flex;
+    width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: 5%;
+    background-color: rgb(12, 12, 41);
 }
 .component1{
-    border-style: solid;
+    /* border-style:solid; */
     width: 45%;
+    /* border-radius: 2%; */
+    color: white;
+    /* background-color:navy */
 }
 .component2{
-    border-style: solid;
+    /* border-style: solid; */
     width: 45%;
+    /* border-radius: 2%; */
 }
 .flex{
     display: flex;
+}
+img{
+    width: 100%;
+    /* border-radius: 2%; */
+}
+.main_container{
+    /* background-color: rgb(12, 12, 41); */
+    
+}
+.companies{
+   
+    padding-right: 5%;
 }
