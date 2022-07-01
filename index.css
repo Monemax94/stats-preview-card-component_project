@@ -1,0 +1,22 @@
+body{
+    /* background-color:navy; */
+    margin: 0;
+    padding: 0;
+}
+span.insights{
+    color: purple;
+}
+.sub-main_container{
+    display: flex;
+}
+.component1{
+    border-style: solid;
+    width: 45%;
+}
+.component2{
+    border-style: solid;
+    width: 45%;
+}
+.flex{
+    display: flex;
+}
